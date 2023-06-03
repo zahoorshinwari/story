@@ -1,1 +1,2 @@
-this is chapter 1
+this is chapter 1.
+here we add some new information about the aliens
